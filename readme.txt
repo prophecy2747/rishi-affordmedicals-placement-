@@ -1,6 +1,3 @@
-# rishi-affordmedicals-placement-
-Solution for Afford Medicals placement test on 19/08/23
-
 Rishi Kunnath 
 CB.EN.U4CSE20250
 BTECH CSE

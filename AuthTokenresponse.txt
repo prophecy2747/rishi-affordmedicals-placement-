@@ -1,0 +1,3 @@
+Registration Response:
+Status Code: 200
+Response JSON: {'token_type': 'Bearer', 'access_token': 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE2OTI0MTk4MjcsImNvbXBhbnlOYW1lIjoiVHJhaW4gY2VudHJhbCIsImNsaWVudElEIjoiN2IzY2RkMmEtMjNmZS00MGRlLThlMjctYjI4MDMzZTI4ZmVmIiwib3duZXJOYW1lIjoiIiwib3duZXJFbWFpbCI6IiIsInJvbGxObyI6IjIwMjUwIn0.-srpvbhgi4qhFmqpEBf2WMB5LHnYPleMPrve3qm3J24', 'expires_in': 1692419827}
